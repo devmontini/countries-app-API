@@ -22,4 +22,4 @@
 - Tecnologías:<br />
     Back => Node, Express <br />
     BD => SQL, Sequaleeze<br />
-    front => https://github.com/devmontini/countries-app-CLI
+    Front => https://github.com/devmontini/countries-app-CLI

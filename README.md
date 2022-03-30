@@ -1,24 +1,24 @@
 ## Countries App (API)! <img width="22px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 
-<div width="200px">
-    <a href="https://countries-app-cli.vercel.app/">
-      <img align="left" alt="Deploy App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />
-       <p width="fit">Deploy App</p>
-    </a>
-    <a href="https://www.linkedin.com/in/devmontini/">
-      <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-        <p>Linkedin</p>
-    </a>
-    <a href="https://github.com/devmontini/">
-      <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-        <p>GitHub</p>
-    </a>
-    <a href="https://devmontini.github.io/">
-      <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/affinityphoto.svg" />
-      <p>Portfolio</p>
-    </a>
-</div><br />
+
+<a  width="fit" href="https://countries-app-cli.vercel.app/">
+  <img align="left" alt="Deploy App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />
+   <p>Deploy App</p>
+</a>
+<a href="https://www.linkedin.com/in/devmontini/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <p>Linkedin</p>
+</a>
+<a href="https://github.com/devmontini/">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <p>GitHub</p>
+</a>
+<a href="https://devmontini.github.io/">
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/affinityphoto.svg" />
+  <p>Portfolio</p>
+</a>
+<br />
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 

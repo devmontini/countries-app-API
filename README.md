@@ -1,7 +1,7 @@
 ## Countries App (API)! <img width="22px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 
-<div>
+<div width="200">
     <a width="200" href="https://countries-app-cli.vercel.app/">
       <img align="left" alt="Deploy App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />
         <p width="200">Deploy App</p>

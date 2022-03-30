@@ -4,7 +4,7 @@
 <div width="200px">
     <a href="https://countries-app-cli.vercel.app/">
       <img align="left" alt="Deploy App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/appstore.svg" />
-        <p>Deploy App</p>
+       <p width="fit">Deploy App</p>
     </a>
     <a href="https://www.linkedin.com/in/devmontini/">
       <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

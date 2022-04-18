@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "Countries App",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,7 @@
     "node": ">=12.18.3",
     "npm": ">=6.14.6"
   },
+  "author": "Montini Franco",
   "dependencies": {
     "axios": "^0.24.0",
     "body-parser": "^1.19.0",
